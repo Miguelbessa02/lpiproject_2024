@@ -11,12 +11,12 @@ import plotly.express as px
 from sklearn.preprocessing import LabelEncoder
 
 # Caminho do arquivo CSV
-caminho_arquivo = r'C:\Users\sebas\PycharmProjects\lpiproject2024\DataSet.csv'
+caminho_arquivo = r'C:\Users\Miguel\PycharmProjects\lpiproject_2024\DataSet.csv'
 # Ler o arquivo CSV usando a primeira linha como cabeçalho (se necessário ajuste de acordo com o seu CSV)
 df = pd.read_csv(caminho_arquivo, delimiter=';')
 
 # Verifique se todas as colunas necessárias estão presentes
-print("Colunas disponíveis no DataFrame:", df.columns)
+#print("Colunas disponíveis no DataFrame:", df.columns)
 
 # Remover colunas desnecessárias se existirem
 df.drop(columns=[col for col in df.columns if "Unnamed" in col], inplace=True, errors='ignore')

@@ -1918,10 +1918,4 @@ DataHoraAbertura;NumProcesso;Cliente;Prioridade;Tecnico;DescricaoProb;ComoReprod
 16/05/2023 16:57;11361;1099;1;PM;atualização recursos humanos    ;NECESSITO DA EMPRESA MAVIVA, PELO MENOS, PORQUE ESTA SEMANA TENHO DE PROCESSAR UM SAIDA;;
 07/07/2022 17:42;7113;2361;1;FS;Casa Decimais na Fatura Final.    ;Queriamos que na Fatura Final apenas aparecessem duas casas decimais e não as seis que estão a aparecer, como no anexo.;;
 20/10/2021 12:03;3759;1022;1;PM;Processamento de sal?rio sem leitura das faltas do funcion?rio    ;Pe?o que ajudem.;;
-2024-04-30 17:26:58.976666;14917;0;1;Online Submission;erro ao meter contribuinte;Not Applicable;0.0;Cluster A
-2024-04-30 17:27:32.009738;14918;0;1;Online Submission;erro ao meter contribuinte;Not Applicable;0.0;Cluster A
-2024-04-30 17:44:17.056443;14919;0;1;Online Submission;erro ao meter contribuinte;Not Applicable;0.0;Cluster A
-2024-04-30 17:48:19.562788;14920;0;1;Online Submission;erro a imprimir as listagens quinzenais;Not Applicable;1.0;Cluster B
-2024-05-02 00:09:37.645055;14921;0;1;Online Submission;erro ao colocar a data correta;Not Applicable;1.0;Cluster B
-2024-05-02 00:10:03.821199;14922;0;1;Online Submission;erro ao colocar a data correta;Not Applicable;1.0;Cluster B
-2024-05-02 00:14:46.755919;14923;0;1;Online Submission;erro ao colocar a data correta;Not Applicable;1.0;Cluster B
+

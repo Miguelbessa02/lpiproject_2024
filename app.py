@@ -13,7 +13,7 @@ model = SentenceTransformer('sentence-transformers/distiluse-base-multilingual-c
 global df
 
 # Caminho do arquivo e leitura do CSV
-caminho_arquivo = 'C:/Users/sebas/PycharmProjects/lpiproject2024/DataSet.csv'
+caminho_arquivo = r'C:\Users\Miguel\PycharmProjects\lpiproject_2024\DataSet.csv'
 df = pd.read_csv(caminho_arquivo, delimiter=';')
 
 # Limpar colunas desnecessárias
